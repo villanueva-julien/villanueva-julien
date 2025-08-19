@@ -27,6 +27,14 @@
 📧 Email: [villanuevajulienjohn@gmail.com](mailto:villanuevajulienjohn@gmail)
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=villanueva-julien&label=Profile%20views&color=0e75b6&style=flat" alt="smoj" /> </p>
+
+---
+
+![villanueva-julien's Stats](https://github-readme-stats.vercel.app/api?username=villanueva-julien&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![villanueva-julien's Streak](https://github-readme-streak-stats.herokuapp.com/?user=villanueva-julien&theme=dark&hide_border=false)
+
+---
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
